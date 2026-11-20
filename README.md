@@ -36,8 +36,8 @@
 - 技术栈：ArkTS + ArkUI（Stage 模型）、Navigation 栈式导航、AVPlayer、AVSession、Preferences。
 - 包名：`com.xuyiqing.qingmusic`
 - 接口基址：`https://radio-api.designtool.site`
-- 完整的页面结构、目录设计、已实现能力、构建命令与后端接口说明，见 [README.dev.md](README.dev.md)。
 
-## 开源协议
+## 说明
 
-MIT License
+本仓库仅用于发布安装包与展示应用信息，不提供源代码。安装包通过侧载方式安装，需使用你自己的 HarmonyOS 开发者证书与 Profile 完成签装。
+
