@@ -23,19 +23,14 @@
 3. 使用你自己的 HarmonyOS 开发者证书与 Profile 完成签装（安装包来源的合法性与安全性请自行判断）。
 4. 首次启动后，进入任意电台即可开始收听。
 
-> 需要 HarmonyOS NEXT（API 12+）设备。部分电台为 HTTP 明文流，若设备拦截明文请求会自动尝试 HTTPS 版本。
+> 需要 HarmonyOS NEXT设备。部分电台为 HTTP 明文流，若设备拦截明文请求会自动尝试 HTTPS 版本。
 
-## 界面预览
-
-<!-- 投稿时可在此处放 2 至 3 张真机截图，例如： -->
-<!-- ![电台列表](docs/screenshot-list.png) -->
-<!-- ![播放页](docs/screenshot-player.png) -->
 
 ## 技术说明
 
 - 技术栈：ArkTS + ArkUI（Stage 模型）、Navigation 栈式导航、AVPlayer、AVSession、Preferences。
 - 包名：`com.xuyiqing.qingmusic`
-- 接口基址：`https://radio-api.designtool.site`
+
 
 ## 说明
 
