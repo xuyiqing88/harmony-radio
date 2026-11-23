@@ -18,15 +18,15 @@
 
 | 首页 | 分类筛选 |
 | :---: | :---: |
-| ![首页](images/home.jpg) | ![分类筛选](images/categories.jpg) |
+| ![首页](images/home.webp) | ![分类筛选](images/categories.webp) |
 
 | 电台详情 | 播放页 |
 | :---: | :---: |
-| ![电台](images/radio.jpg) | ![播放页](images/player.jpg) |
+| ![电台](images/radio.webp) | ![播放页](images/player.webp) |
 
 | 收听历史 | 设置 |
 | :---: | :---: |
-| ![收听历史](images/history.jpg) | ![设置](images/settings.jpg) |
+| ![收听历史](images/history.webp) | ![设置](images/settings.webp) |
 
 ## 安装说明
 
