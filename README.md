@@ -54,7 +54,14 @@
 
 如果这个项目对你有帮助，可以请作者喝杯咖啡。扫码金额随意，感谢支持。
 
-| 微信赞赏 | 支付宝 |
-| :---: | :---: |
-| ![微信赞赏码](images/wechat-reward.webp) | ![支付宝收款码](images/alipay-reward.webp) |
+<table>
+  <tr>
+    <th width="50%" align="center">微信赞赏</th>
+    <th width="50%" align="center">支付宝</th>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><img src="images/wechat-reward.webp" width="240" alt="微信赞赏码" /></td>
+    <td width="50%" align="center"><img src="images/alipay-reward.webp" width="240" alt="支付宝收款码" /></td>
+  </tr>
+</table>
 
